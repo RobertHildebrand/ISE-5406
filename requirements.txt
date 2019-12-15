@@ -4,5 +4,8 @@ seaborn==0.8.1
 pandas
 jupyter>=1.0
 notedown>=1.5
-
+pyomo
+pyomo.extras
+glpk
+ipopt
 
